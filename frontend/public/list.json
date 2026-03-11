@@ -1,0 +1,90 @@
+[
+    {
+        "id":1,
+        "name":"Fairy-Tales",
+        "title": "Once Upon a Time: Timeless Fairy Tales",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-vector/vector-illustration-kid-reading-book_29937-924.jpg?w=740"
+    },
+    {
+        "id":2,
+        "name":"Fairy-Tales",
+        "title": "Fables and Fantasies: Fairy Tales Collection",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-vector/illustration-kid-eating-fish_29937-162.jpg"
+    },
+    {
+        "id":3,
+        "name":"Fairy-Tales",
+        "title": "Enchanted Tales: Classic Fairy Tales Retold",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-vector/illustration-kid-playing-puzzle_29937-217.jpg?w=740"
+    },
+    {
+        "id":4,
+        "name":"Fairy-Tales",
+        "title": "CindreComedylla",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-vector/illustration-kid-with-magnifier_29937-1089.jpg?w=740"
+    },
+    {
+        "id":5,
+        "name":"Fairy-Tales",
+        "title": "Whispers of Magic: Fairy Tales for All Ages",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-vector/vector-illustration-happy-kid-emotion_29937-828.jpg?w=740"
+    },
+    {
+        "id":6,
+        "name":"Comedy",
+        "title": "A Confederacy of Dunces",
+        "price":40,
+        "category":"Funny",
+        "image":"https://img.freepik.com/premium-vector/vector-illustration-kid-reading-book_29937-924.jpg?w=740"
+    },
+    {
+        "id":7,
+        "name":"Comedy",
+        "title": "A Confederacy of Dunces",
+        "price":40,
+        "category":"Funny",
+        "image":"https://img.freepik.com/premium-photo/cartoon-happy-smiling-cute-babycartoon-happy-smiling-cute-babyfunny-cartoon-character-3-d-illustrati_912214-27569.jpg?w=740"
+    },
+    {
+        "id":8,
+        "name":"Comedy",
+        "title": "Catch-22",
+        "price":40,
+        "category":"Funny",
+        "image":"https://img.freepik.com/premium-photo/small-boy-colorful-background-funny-cartoon-character-school-kid-3d-generative-ai_58409-28882.jpg?w=740"
+    },
+    {
+        "id":9,
+        "name":"Horror-Mystery",
+        "title": "Nightmare Symphony",
+        "price":50,
+        "category":"Haunting",
+        "image":"https://img.freepik.com/free-vector/skull-gold-head-vector-logojpg_43623-1238.jpg?t=st=1721734840~exp=1721738440~hmac=5319ed900eef597b8fd1d3378565a7568f732cf918e8967c613cfc8d49203b52&w=740"
+    },
+    {
+        "id":10,
+        "name":"Horror-Mystery",
+        "title": "Whispers of the Shadows",
+        "price":50,
+        "category":"Haunting",
+        "image":"https://img.freepik.com/premium-vector/zombie-hungry-illustration_77271-291.jpg"
+    },
+    {
+        "id":11,
+        "name":"Horror-Mystery",
+        "title": "The Haunting Silence",
+        "price":50,
+        "category":"Haunting",
+        "image":"https://img.freepik.com/free-vector/zombie-biker-head-isolated-black_43623-910.jpg?t=st=1721734864~exp=1721738464~hmac=1157bb47f2a23212eb2feb4958108be48ade025b7906a3cff050cbece816e804&w=740"
+    }
+]
