@@ -100,6 +100,10 @@ Homepage view:
 
 ![Homepage](frontend/public/homepage.png "The Book Bar Homepage")
 
+Books Page:
+
+![Books](frontend/public/books.png "Books Listing Page")
+
 ---
 
 ## 🤝 Contributing
