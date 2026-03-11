@@ -1,0 +1,24 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "A modern **Book Store Web Application** where users can explore books after logging in.\r Built using **React, Node.js, Express, and MongoDB** with a clean responsive UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install-client": "npm install --prefix frontend",
+    "install-server": "npm install --prefix backend",
+    "build-client": "npm run build --prefix frontend",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Im-Rahul-Panchal/The-Book-bar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Im-Rahul-Panchal/The-Book-bar/issues"
+  },
+  "homepage": "https://github.com/Im-Rahul-Panchal/The-Book-bar#readme"
+}
