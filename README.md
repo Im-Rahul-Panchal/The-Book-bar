@@ -1,3 +1,7 @@
+## 🌐 Live Website  (wait for a minute to load)
+
+👉 [Visit Live Website](https://the-book-bar-ydxw.onrender.com/)
+
 # 📚 The Book Bar
 
 A modern **Book Store Web Application** where users can explore books after logging in.
